@@ -1,0 +1,31 @@
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+env/
+
+# Salidas de la aplicacion
+*.part
+*.ytdl
+*.temp
+*.mp4
+*.mkv
+*.webm
+*.mp3
+*.opus
+*.wav
+*.m4a
+*.aac
+*.flac
+
+# Preferencias locales
+prefs.json
+config.json
+
+# Editores / SO
+.vscode/
+.idea/
+Thumbs.db
+desktop.ini
+.DS_Store
